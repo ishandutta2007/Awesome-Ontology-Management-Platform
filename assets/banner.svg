@@ -1,0 +1,27 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8A2387;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#E94057;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F27121;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grad)" rx="15" ry="15"/>
+  <text x="50%" y="40%" font-family="Arial, sans-serif" font-size="60" fill="white" font-weight="bold" text-anchor="middle">Awesome Ontology Management</text>
+  <text x="50%" y="60%" font-family="Arial, sans-serif" font-size="28" fill="white" text-anchor="middle">Curated list of SaaS &amp; Open-Source Projects</text>
+  
+  <g opacity="0.3">
+    <circle cx="10%" cy="20%" r="50" fill="white">
+      <animate attributeName="r" values="50;70;50" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="90%" cy="80%" r="80" fill="white">
+      <animate attributeName="r" values="80;100;80" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="20%" cy="80%" r="30" fill="white">
+      <animate attributeName="r" values="30;40;30" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="80%" cy="20%" r="40" fill="white">
+      <animate attributeName="r" values="40;60;40" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
