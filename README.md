@@ -44,63 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[TopBraid EDG (TopQuadrant)](https://www.topquadrant.com/)**  
-
-  Enterprise data governance and semantic modeling platform for managing ontologies, taxonomies, knowledge graphs, and reference data with strong governance workflows and SHACL support.
-
-
-
-- **[PoolParty](https://www.poolparty.biz/)**  
-
-  Semantic suite for taxonomy, thesaurus, and ontology management with text mining, linked data capabilities, and automated semantic enrichment.
-
-
-
-- **[Stardog Studio](https://www.stardog.com/)**  
-
-  Enterprise knowledge graph platform with ontology-driven data integration, OWL reasoning, virtualization, and analytics for unifying enterprise data.
-
-
-
-- **[Metaphactory](https://metaphacts.com/)**  
-
-  Knowledge graph application platform that uses ontologies to drive modeling, visualization, search, and end-user applications.
-
-
-
-- **[GraphDB Workbench (Ontotext)](https://www.ontotext.com/products/graphdb/)**  
-
-  Semantic graph database with robust ontology management, reasoning, SHACL validation, and visual exploration tools.
-
-
-
-- **[Cambridge Semantics (Anzo)](https://www.cambridgesemantics.com/)**  
-
-  Enterprise semantic analytics and knowledge graph platform for data discovery, integration, and ontology-driven insights.
-
-
-
-- **[data.world Catalog](https://data.world/)**  
-
-  Collaborative data catalog and knowledge platform that supports semantic modeling, documentation, and governed data discovery.
-
-
-
-- **[Enterprise Knowledge Graph solutions](https://www.enterprise-knowledge.com/)**  
-
-  Consulting and platform approaches focused on building and operationalizing enterprise knowledge graphs and ontologies.
-
-
-
-- **[Semantic Arts](https://www.semanticarts.com/)**  
-
-  Specialists in enterprise ontology design and semantic solutions for large-scale data integration and governance.
-
-
-
-- **[TopQuadrant](https://www.topquadrant.com/)**  
-
-  Provider of TopBraid products and semantic technology solutions for ontology management and enterprise data governance.
+| Platform | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[TopBraid EDG (TopQuadrant)](https://www.topquadrant.com/)** | Enterprise data governance and semantic modeling platform for managing ontologies, taxonomies, knowledge graphs, and reference data with strong governance workflows and SHACL support. | Contact Sales | N/A |
+| **[PoolParty](https://www.poolparty.biz/)** | Semantic suite for taxonomy, thesaurus, and ontology management with text mining, linked data capabilities, and automated semantic enrichment. | Contact Sales | N/A |
+| **[Stardog Studio](https://www.stardog.com/)** | Enterprise knowledge graph platform with ontology-driven data integration, OWL reasoning, virtualization, and analytics for unifying enterprise data. | Custom | Limited Free Tier available |
+| **[Metaphactory](https://metaphacts.com/)** | Knowledge graph application platform that uses ontologies to drive modeling, visualization, search, and end-user applications. | Contact Sales | N/A |
+| **[GraphDB Workbench (Ontotext)](https://www.ontotext.com/products/graphdb/)** | Semantic graph database with robust ontology management, reasoning, SHACL validation, and visual exploration tools. | Custom / Enterprise | GraphDB Free is available |
+| **[Cambridge Semantics (Anzo)](https://www.cambridgesemantics.com/)** | Enterprise semantic analytics and knowledge graph platform for data discovery, integration, and ontology-driven insights. | Contact Sales | N/A |
+| **[data.world Catalog](https://data.world/)** | Collaborative data catalog and knowledge platform that supports semantic modeling, documentation, and governed data discovery. | Enterprise | Community tier available |
+| **[Enterprise Knowledge Graph solutions](https://www.enterprise-knowledge.com/)** | Consulting and platform approaches focused on building and operationalizing enterprise knowledge graphs and ontologies. | Consulting | N/A |
+| **[Semantic Arts](https://www.semanticarts.com/)** | Specialists in enterprise ontology design and semantic solutions for large-scale data integration and governance. | Consulting | N/A |
+| **[TopQuadrant](https://www.topquadrant.com/)** | Provider of TopBraid products and semantic technology solutions for ontology management and enterprise data governance. | Contact Sales | N/A |
 
 
 
